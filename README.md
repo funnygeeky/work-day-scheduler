@@ -24,3 +24,9 @@ Acceptance Criteria
 *WHEN I referesh the page
 *THEN the saved events persist
 
+Application Screenshot
+<a href="">
+<img src="./assets/images/workdaysched.png" alt="Work Day Scheduler">
+
+</a>
+
